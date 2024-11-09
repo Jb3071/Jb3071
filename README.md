@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-Jb3071/Jb3071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JibrilTech.Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
